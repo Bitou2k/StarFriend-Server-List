@@ -1,13 +1,9 @@
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\bin\Debug\Client.exe
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\bin\Debug\Client.pdb
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\Client.Main.resources
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\Client.Properties.Resources.resources
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\Client.exe
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\obj\x86\Debug\Client.pdb
-C:\Users\Miguel\documents\visual studio 2010\Projects\StarFriend ServerList\Client\bin\Debug\Client.exe.config
-C:\Users\Miguel\Desktop\StarFriend\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\bin\Debug\Client.exe
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\bin\Debug\Client.pdb
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\Client.Main.resources
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\Client.exe
 C:\Users\Miguel\Desktop\StarFriend\Client\Client\obj\x86\Debug\Client.pdb

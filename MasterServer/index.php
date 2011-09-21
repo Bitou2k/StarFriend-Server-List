@@ -1,4 +1,11 @@
-<center>
+<?php
+$MySQL_db = "cabrita_starfriend";
+$MySQL_host = "localhost";
+$MySQL_username = "cabrita_bot";
+$MySQL_password = "1237557321";
+
+$client = $_GET['client'];
+?><center>
 <h1>Starfriend Server List</h1>
 <table border="1" width="100%" align="center">
 <tr>
@@ -8,12 +15,12 @@
 <th>IP Address</th>
 <th>Description</th>
 <th>Last Update</th>
-</tr>
-<?php
-$MySQL_db = "cabrita_starfriend";
-$MySQL_host = "localhost";
-$MySQL_username = "cabrita_bot";
-$MySQL_password = "1237557321";
+<?php 
+if (isset($client)) {
+	echo "<th>Latency</th>";
+}
+
+echo "</tr>";
 
 $SQL = mysql_connect($MySQL_host, $MySQL_username, $MySQL_password);
 
@@ -40,9 +47,12 @@ for ($i = 0; $i < $num_rows; $i++) {
 	echo "<td>".$row[1]."</td>";
 	echo "<td>".$row[2]."</td>";
 	echo "<td>".$row[3]."</td>";
-	echo "<td>".$row[4]."</td>";
+	echo "<td id='ip".$i."'>".$row[4]."</td>";
 	echo "<td>".$row[5]."</td>";
 	echo "<td>".$row[6]."</td>";
+	if (isset($client)) {
+		echo "<td id='latency".$i."'>0</td>";
+	}
 	echo "</tr>";
 }
 
