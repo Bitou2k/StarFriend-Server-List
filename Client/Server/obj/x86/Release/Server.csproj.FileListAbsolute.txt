@@ -8,3 +8,5 @@ C:\Users\Miguel\Desktop\StarFriend\Client\Server\obj\x86\Release\GenerateResourc
 C:\Users\Miguel\Desktop\StarFriend\Client\Server\obj\x86\Release\GenerateResource.write.1.tlog
 C:\Users\Miguel\Desktop\StarFriend\Client\Server\obj\x86\Release\Client.exe
 C:\Users\Miguel\Desktop\StarFriend\Client\Server\obj\x86\Release\Client.pdb
+C:\Users\Miguel\Desktop\StarFriend\Client\Server\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Miguel\Desktop\StarFriend\Client\Server\obj\x86\Release\ResGen.write.1.tlog
