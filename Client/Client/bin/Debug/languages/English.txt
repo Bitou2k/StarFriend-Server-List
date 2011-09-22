@@ -1,0 +1,13 @@
+﻿Refresh Page
+Change Language
+Last Refresh
+Seconds Ago
+Version
+Max Latency
+Players
+IP Address
+Description
+Last Update
+Latency
+Language File not Found! Please re-install!
+Failed

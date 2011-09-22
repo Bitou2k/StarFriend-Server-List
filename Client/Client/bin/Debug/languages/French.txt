@@ -1,0 +1,13 @@
+Actualiser la page
+Changer la langue
+Dernière actualisation
+secondes Ago
+Version
+max Latency
+joueurs
+Adresse IP
+descriptif
+Dernière mise à jour
+latence
+Language File not found! S'il vous plaît ré-installer!
+échec
